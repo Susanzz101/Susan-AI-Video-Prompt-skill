@@ -269,7 +269,7 @@ npx -y skills add Susanzz101/Susan-AI-Video-Prompt-skill -g --all
 如果使用 `skills` CLI 安装，可以尝试运行：
 
 ```bash
-npx -y skills remove jimeng-video-prompt -g
+npx -y skills remove susan-ai -g
 ```
 
 也可以手动删除对应目录：
