@@ -4,8 +4,6 @@ Susan-AI视频提示词生成智能体，专为即梦 Jimeng / Seedance 视频�
 
 它可以帮助 AI 视频创作者生成高质量视频提示词，支持沉浸式吃播、服装展示、口播带货、产品演示、剧情短剧、视频反推复刻等场景，内置分镜、镜头语言、音效设计与多段衔接规则。
 
-这是一个基于 `SKILL.md` 的 Agent Skill，适用于支持 Agent Skills / Claude Skills / Codex Skills 结构的主流 AI 编程助手与大模型工作台。
-
 ## 一键安装
 
 推荐使用 `skills` CLI 一行命令安装：
